@@ -1,3 +1,6 @@
+#Fuck DNS
+for anyone who’s tired of digging through Windows settings just to change DNS.
+
 # 🚀 Windows DNS Switcher (Python CLI)
 
 Tired of slow DNS? Want to switch to the fastest DNS with a single command?
