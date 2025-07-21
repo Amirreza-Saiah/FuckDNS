@@ -115,4 +115,5 @@ def clear_dns():
     subprocess.run(command, check=True)
     print(f"DNS settings for Wi-Fi have been cleared (set to DHCP).")
 
-run_as_admin()
+if "__main__" == __name__:
+    run_as_admin()
